@@ -3,7 +3,7 @@ Unit 02 homework
 
 See the live website here
 
-https://ryanellingson.github.io/Responsive-Portfolio/contact.html
+https://ryanellingson.github.io/Responsive-Portfolio/
 
 The purpose of this project was to create a portfolio that utilizes bootstrap CSS and a mobile-responsive layout.  The content of the portfolio includes 3 web pages that are linked together using a nav bar.  One page has a picture of me along with some information about me; the second page is has a group of pictures with captions, and the third page has a form where you would enter a name, email address, and a message, along with a submit button (which doesn't actually do anything).
 
